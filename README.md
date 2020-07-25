@@ -7,7 +7,8 @@ Visit the github page and load in the cdc dataset to your jupyter notebook
 The dataset has multiple medical indictors and diseases, your task is to create a descriptive analysis of data within the dataset.
 For example, you’re interested in investigating heart disease.  Within the dataset, can you find any indicators that seem to influence the risk of heart disease?  How do different states compare?
 
-For this dataset, you will need to use:\n
+For this dataset, you will need to use:
+<p>
   Data wrangling and cleaning
   Renaming variables
   Filtering data

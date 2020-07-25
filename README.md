@@ -1,7 +1,7 @@
 # myportfolio
 
 
-<b> UNIT 3 - Proejct 2 </b>
+<b> UNIT 3 - Project 2 </b>
 
 #Slide 1 
 <br>
